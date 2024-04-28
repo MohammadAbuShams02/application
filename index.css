@@ -37,3 +37,31 @@
 body {
   height: 5000px;
 }
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.portfolio {
+  text-align: center;
+
+  background-color: aqua;
+}
+
+.portfolio-items {
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  margin-top: 20px;
+}
+
+.portfolio-item {
+  width: 33.33%;
+  padding: 5px;
+}
+
+.portfolio-item img {
+  display: flex;
+  width: 100%;
+}
