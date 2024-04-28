@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  background-color: teal;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  height: 35px;
+}
+
+.navbar img {
+  width: 50%;
+  display: flex;
+}
+
+.logo {
+  width: 30%;
+}
+
+.list ul {
+  display: flex;
+  list-style-type: none;
+  gap: 24px;
+}
+
+.list ul a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: yellow;
+}
+body {
+  height: 5000px;
+}

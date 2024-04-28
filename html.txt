@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="./index.css" />
+  </head>
+
+  <body>
+    <div class="navbar">
+      <div class="logo">
+        <a href="./index.html"> <img src="./img/navbar-logo.svg" /></a>
+      </div>
+
+      <div class="list">
+        <ul>
+          <li><a href="#">service</a></li>
+          <li><a href="#">porfolio</a></li>
+          <li><a href="#">about</a></li>
+          <li><a href="#">team</a></li>
+          <li><a href="#">contact</a></li>
+        </ul>
+      </div>
+    </div>
+
+
+    <div class="portfolio">
+      
+<h2>portfolio</h2>
+<p>Lorem ipsum dolor sit amet consectetur.
+</p>
+
+
+
+<div class="portfolio-list">
+
+  <div class="portfolio-item">
+    <img src="./img/portfolio/1.jpg" />
+  </div>
+  <div class="portfolio-item">
+    <img src="./img/portfolio/2.jpg" />
+  </div>
+  <div class="portfolio-item">
+    <img src="./img/portfolio/3.jpg" />
+  </div>
+  <div class="portfolio-item">
+    <img src="./img/portfolio/4.jpg" />
+  </div>
+  <div class="portfolio-item">
+    <img src="./img/portfolio/5.jpg" />
+  </div>
+  <div class="portfolio-item">
+    <img src="./img/portfolio/6.jpg" />
+  </div>
+  
+
+
+
+  </div>
+
+      </div>
+
+
+
+
+  </body>
+</html>
